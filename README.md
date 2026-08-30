@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am currently working on a Onboarding App | Learning AI
+# About Me:
+I am currently working on Networking | Learning AI
 
 
 ## 🌐 Socials:
